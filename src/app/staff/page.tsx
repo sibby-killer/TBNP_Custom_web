@@ -110,11 +110,11 @@ export default function StaffDashboard() {
               <div className="quick-action">
                 <span className="material-symbols-outlined">fact_check</span>
                 <span>Mark Attendance</span>
-              </a>
+              </div>
               <div className="quick-action">
                 <span className="material-symbols-outlined">grade</span>
                 <span>Enter Grades</span>
-              </a>
+              </div>
               <div className="quick-action">
                 <span className="material-symbols-outlined">download</span>
                 <span>Reports</span>
